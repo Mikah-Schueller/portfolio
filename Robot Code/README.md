@@ -26,7 +26,7 @@ The **Robot Code** repository contains the code I developed for my high school's
 ## Installation
   1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Robot-Code.git
+   git clone https://github.com/Mikah-Schueller/Robot-Code.git
    ```
   2. Navigate to the project directory:
   ```bash
