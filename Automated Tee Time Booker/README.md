@@ -34,7 +34,7 @@ Alternatively, if packaged as an .exe:
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/automated-tee-time-booker.git
+git clone https://github.com/Mikah-Schueller/Automated-Tee-Time-Booker.git
 ```
 2. Navigate to the project directory:
 ```bash
