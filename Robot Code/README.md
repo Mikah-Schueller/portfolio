@@ -17,7 +17,7 @@ The **Robot Code** repository contains the code I developed for my high school's
 ---
 
 ## Prerequisites
-1. **CTRE Phoenix Framework** (or equivalent for motor control)
+1. **CTRE Talon FX** (or equivalent for motor control)
 2. **FRC Driver Station**
 3. **Limelight Camera** for distance detection (optional)
 
