@@ -6,11 +6,11 @@ The **Automated Tee Time Booker** is a Python script designed to book tee times 
 ---
 
 ## Features
-- **Automated Tee Time Booking**: Automatically books a tee time at the specified time, minimizing delays caused by human input.
-- **NTP Time Accuracy**: Utilizes `ntplib` to synchronize with global time servers for precise timing.
-- **Customizable Start Time**: Allows the user to specify the earliest and latest acceptable tee times.
-- **Preconfigured Booking Details**: Books for 4 players, 18 holes, and no golf cart (modifiable by adjusting XPaths in the code).
-- **Reusable**: Can be converted into an `.exe` for simplified use on any machine.
+   - **Automated Tee Time Booking**: Automatically books a tee time at the specified time, minimizing delays caused by human input.
+   - **NTP Time Accuracy**: Utilizes `ntplib` to synchronize with global time servers for precise timing.
+   - **Customizable Start Time**: Allows the user to specify the earliest and latest acceptable tee times.
+   - **Preconfigured Booking Details**: Books for 4 players, 18 holes, and no golf cart (modifiable by adjusting XPaths in the code).
+   - **Reusable**: Can be converted into an `.exe` for simplified use on any machine.
 
 ---
 
@@ -24,10 +24,10 @@ To use the script in its current form:
 3. **Google Chrome Installed**: Download Chrome
 4. **ChromeDriver Installed**: Ensure the ChromeDriver version matches your Chrome browser version. Download ChromeDriver
 Environment Variables:
-- golf_email: Your login email for the golf course booking website.
-- golf_password: Your password for the booking website.
+   - golf_email: Your login email for the golf course booking website.
+   - golf_password: Your password for the booking website.
 Alternatively, if packaged as an .exe:
-- The environment variables can be hardcoded into the script during compilation.
+   - The environment variables can be hardcoded into the script during compilation.
 
 ---
 
@@ -68,6 +68,7 @@ While the script is tailored for specific booking preferences, it can be modifie
 - **Hole Preferences**: Change the XPath to select 9 or 18 holes.
 - **Golf Cart Option**: Modify the XPath to include/exclude a golf cart.
 - **Booking Times**: Adjust the earliest and latest acceptable times by editing the start_hour, start_min, latest_hour, and latest_min functions.
+
 **Note**: To customize, users need to locate the appropriate XPaths for their golf course's booking website.
 
 ---
