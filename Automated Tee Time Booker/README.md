@@ -49,26 +49,25 @@ pip install selenium ntplib
 
 ## Usage Instructions
 1. **Setup Environment Variables**:
-- Add golf_email and golf_password to your system's environment variables or modify the script to include them as hardcoded values.
+   - Add golf_email and golf_password to your system's environment variables or modify the script to include them as hardcoded values.
 2. **Run the Script**:
-- Open the script in your Python editor (e.g., VS Code, PyCharm).
-- Run the script close to the desired booking time.
-- The script will:
-a. Log in to the golf course booking website.
-b. Wait until tee times become available.
-c. Automatically book a time based on your preferences.
+   - Open the script in your Python editor (e.g., VS Code, PyCharm).
+   - Run the script close to the desired booking time.
+   - The script will:
+      a. Log in to the golf course booking website.
+      b. Wait until tee times become available.
+      c. Automatically book a time based on your preferences.
 3. **Post-Booking**:
-- The script will display the booked tee time and keep the browser open for verification.
+   - The script will display the booked tee time and keep the browser open for verification.
 
 ---
 
 ## Customization
 While the script is tailored for specific booking preferences, it can be modified for:
-- **Different Number of Players**: Update the XPath for selecting the number of players.
-- **Hole Preferences**: Change the XPath to select 9 or 18 holes.
-- **Golf Cart Option**: Modify the XPath to include/exclude a golf cart.
-- **Booking Times**: Adjust the earliest and latest acceptable times by editing the start_hour, start_min, latest_hour, and latest_min functions.
-
+   - **Different Number of Players**: Update the XPath for selecting the number of players.
+   - **Hole Preferences**: Change the XPath to select 9 or 18 holes.
+   - **Golf Cart Option**: Modify the XPath to include/exclude a golf cart.
+   - **Booking Times**: Adjust the earliest and latest acceptable times by editing the start_hour, start_min, latest_hour, and latest_min functions.
 **Note**: To customize, users need to locate the appropriate XPaths for their golf course's booking website.
 
 ---
