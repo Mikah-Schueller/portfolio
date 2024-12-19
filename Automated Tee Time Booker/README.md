@@ -20,6 +20,7 @@ To use the script in its current form:
 2. **Dependencies Installed**:
    ```bash
    pip install selenium ntplib
+   ```
 3. **Google Chrome Installed**: Download Chrome
 4. **ChromeDriver Installed**: Ensure the ChromeDriver version matches your Chrome browser version. Download ChromeDriver
 Environment Variables:
@@ -34,12 +35,15 @@ Alternatively, if packaged as an .exe:
 1. Clone the repository:
 ```bash
 git clone https://github.com/your-username/automated-tee-time-booker.git
+```
 2. Navigate to the project directory:
 ```bash
 cd automated-tee-time-booker
+```
 3. Install required libraries:
 ```bash
 pip install selenium ntplib
+```
 
 ---
 
