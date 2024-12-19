@@ -30,7 +30,7 @@ To run the script:
 ## Installation
 1. Clone the Clone the repository:
    ```bash
-   git clone https://github.com/your-username/flappy-bird-ai.git
+   git clone https://github.com/Mikah-Schueller/Flappy-Bird-AI.git
    ```
 2. Navigate to the project directory:
    ```bash
