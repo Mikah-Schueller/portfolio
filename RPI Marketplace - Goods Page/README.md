@@ -23,7 +23,7 @@ The **Goods Page** is a feature from a larger project, showcasing a page where u
 ## Installation
   1. Clone the repository:
   ```bash
-  git clone https://github.com/your-username/goods-page.git
+  git clone git clone https://github.com/Mikah-Schueller/RPI-Marketplace-Goods-Page.git
   ```
   2. Navigate to the project directory:
   ```bash
