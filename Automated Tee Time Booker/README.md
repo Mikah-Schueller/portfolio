@@ -68,6 +68,7 @@ While the script is tailored for specific booking preferences, it can be modifie
    - **Hole Preferences**: Change the XPath to select 9 or 18 holes.
    - **Golf Cart Option**: Modify the XPath to include/exclude a golf cart.
    - **Booking Times**: Adjust the earliest and latest acceptable times by editing the start_hour, start_min, latest_hour, and latest_min functions.
+
 **Note**: To customize, users need to locate the appropriate XPaths for their golf course's booking website.
 
 ---
