@@ -1,7 +1,7 @@
 # Automated Tee Time Booker
 
 ### Description
-The **Automated Tee Time Booker** is a Python script designed to book tee times at your local golf course faster than any human could. Tee time slots fill up within seconds, making manual booking impractical. This program automates the process using Selenium, ensuring you never miss your preferred slot again.
+The **Automated Tee Time Booker** is a Python script designed to book tee times at my local golf course faster than any human could. Tee time slots fill up within seconds, making manual booking impractical. This program automates the process using Selenium, ensuring you never miss your preferred slot again.
 
 ---
 
